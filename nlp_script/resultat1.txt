@@ -1,0 +1,116 @@
+Facture FA2401-4092
+    ->>>>>>>>> Réf. facture 
+
+
+
+Date facturation : 30/01/2024    ->>>>>>>>> Date échéance 
+
+
+
+Date échéance : 31/01/2024    ->>>>>>>>> Date échéance 
+
+
+
+Code client : CU2108-00728
+Émetteur Adressé à
+JP & Co    ->>>>>>>>> Réf. facture 
+
+
+
+SDCC
+217, Boulevard Zerktouni    ->>>>>>>>> ICE
+
+
+
+Maarif Rue    ->>>>>>>>> designation produit/service
+
+
+
+Casablanca
+    ->>>>>>>>> designation produit/service
+
+
+
+ICE: 001446856000086
+Email: info@jp.co.ma
+Web: http://www.jp.co.ma
+Montants exprimés en Dirham
+Désignation TVA P.U. HT Qté Total HT
+ABOTI - Abonnement trimestriel à la plateforme JPTRACK avec carte sim 20    ->>>>>>>>> ICE
+
+
+
+% 180,00 13    ->>>>>>>>> designation produit/service
+
+
+
+2 340,00    ->>>>>>>>> Total HT
+
+
+
+1.TIPO 11434-T-6    ->>>>>>>>> designation produit/service
+
+
+
+2.TIPO 11435-T-6    ->>>>>>>>> designation produit/service
+
+
+
+3.TIPO 11436-T-6    ->>>>>>>>> designation produit/service
+
+
+
+4.ARONA 1231-T-6    ->>>>>>>>> designation produit/service
+
+
+
+5.ACCENT 26858-T-6
+6.R EXPRESS 20915-T-6
+7.CLIO-5 23130-T-6
+    ->>>>>>>>> designation produit/service
+
+
+
+8.ACCENT 21217-T-6    ->>>>>>>>> designation produit/service
+
+
+
+9.ACCENT 21220-T-6
+10.ACCENT    ->>>>>>>>> designation produit/service
+
+
+
+27103-T-6
+    ->>>>>>>>> designation produit/service
+
+
+
+21219-T-6
+    ->>>>>>>>> Adresse
+
+
+
+2 340,00    ->>>>>>>>> Total HT
+
+
+
+Total TVA    ->>>>>>>>> designation produit/service
+
+
+
+20% 468,00
+Règlement TTC par chèque à l'ordre de JP & Co envoyé à
+Total TTC 2 808,00
+217, Boulevard Zerktouni, étage 3, numéro 11, Maarif
+20000 Casablanca
+Règlement par virement sur le compte bancaire suivant:
+Banque: BMCE
+Numéro de compte: 011780000047210000445396
+Adresse: AGENCE SOUKTANI - ANG RUE JEAN JAURES ET BD SOUKTANI 20000 CASABLNCA
+MAROC
+Nom du propriétaire du compte: JP&Co
+Code IBAN: M640 1178 0000 0472 1000 0445 396
+Code BIC/SWIFT: BMCEMAMC
+Société à Responsabilité Limitée (S.A.R.L) - Capital de 700 000 MAD - R.C.: 291629 - Patente: 35793486
+I.F.: 14463922 - I.C.E.: 000009253000041 - C.N.S.S.: 9792757 - ICE: 000009253000041 1 / 1
+Powered by TCPDF (www.tcpdf.org)    ->>>>>>>>> Taux de TVA de la ligne
