@@ -8,6 +8,9 @@ try:
     texte = pytesseract.image_to_string(image)  
 except IOError as e:
     print(f"Erreur lors de l'ouverture des images: {e}")
+    print(f"Erreur lors de l'ouverture des images: {e}")
+    print(f"Erreur lors de l'ouverture des images: {e}")
+    print(f"Erreur lors de l'ouverture des images: {e}")
 
 
     
