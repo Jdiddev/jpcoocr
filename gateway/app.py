@@ -50,9 +50,11 @@ def upload_file(username):
         if file and allowed_file(file.filename):
             filename = secure_filename(file.filename)
             file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
-            file.save(file_path)
+            normalized_path = file_path.replace('\\', '/')
 
-            extracted_text = extract_text(file_path)
+            file.save(normalized_path)
+
+            extracted_text = extract_text(normalized_path)
             flash('Fichier téléchargé avec succès')
             return redirect(url_for('uploaded_file', filename=filename, extracted_text=extracted_text))
     return render_template('upload_form.html')
