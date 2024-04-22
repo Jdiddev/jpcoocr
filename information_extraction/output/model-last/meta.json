@@ -1,0 +1,136 @@
+{
+  "lang":"fr",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.4,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"bff8725f4",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "Adresse",
+      "Banque",
+      "Code BIC/SWIFT",
+      "Date facture",
+      "Date \u00e9ch\u00e9ance",
+      "Nom du propri\u00e9taire du compte",
+      "Nom ste/Enseigne/Raison sociale",
+      "Ref projet",
+      "Total HT",
+      "Total TTC",
+      "T\u00e9l\u00e9phone",
+      "code client",
+      "designation produit/service",
+      "email",
+      "site web"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":0.976,
+    "ents_p":0.9838709677,
+    "ents_r":0.9682539683,
+    "ents_per_type":{
+      "Ref projet":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Date facture":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Date \u00e9ch\u00e9ance":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "code client":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Nom ste/Enseigne/Raison sociale":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Adresse":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "T\u00e9l\u00e9phone":{
+        "p":0.75,
+        "r":1.0,
+        "f":0.8571428571
+      },
+      "email":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "site web":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "designation produit/service":{
+        "p":1.0,
+        "r":0.875,
+        "f":0.9333333333
+      },
+      "Total TTC":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Total HT":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Banque":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Nom du propri\u00e9taire du compte":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "Code BIC/SWIFT":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      }
+    },
+    "tok2vec_loss":40.7178778554,
+    "ner_loss":812.6227313213
+  }
+}
